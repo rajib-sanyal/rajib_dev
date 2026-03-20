@@ -1,6 +1,6 @@
 # rajib_dev
 
-![Build Status](https://github.com/rajib-sanyal/rajib_dev/actions/workflows/build.yml/badge.svg)
+![Build Status](https://github.com/rajib-sanyal/rajib_dev/actions/workflows/build.yml/badge.svg) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## How to Run
 
